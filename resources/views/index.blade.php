@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
-    
+
     <head>
         <title>Tim Kortsmit</title>
 
         <link rel="stylesheet" href="{{ elixir('css/all.css') }}">
-        
+
     </head>
 
     <body>
 
         <div class="container">
-            
+
             <section class="about">
                 <h1>Tim Kortsmit</h1>
-                <h2>Full Stack Developer</h2>
+                <h2>Web Application Developer</h2>
             </section>
 
             <section class="connect">
@@ -41,7 +41,7 @@
             </section>
 
         </div>
-        
+
         <script src="{{ elixir('js/all.js') }}"></script>
 
     </body>
